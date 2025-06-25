@@ -2,5 +2,5 @@
 Java Training at MIT_ADT_UNIVERSITY
 <br>
 By- Jaydeep Apte
-<br> Git link - https://github.com/jaydeepresources/MIT-ADT
+<br> Git link - https://github.com/jaydeepresources/MIT-ADT<br>
 Author- Omkar Lonkar
