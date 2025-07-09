@@ -1,0 +1,11 @@
+com\BookStore\AddServlet.class
+com\BookStore\ViewIdServlet.class
+com\BookStore\ViewNameServlet.class
+com\BookStore\ControllerServlet.class
+com\BookStore\BookDAOImpl.class
+util\DBUtil.class
+com\BookStore\model\Book.class
+com\BookStore\BookDAO.class
+com\BookStore\DeleteBook.class
+com\BookStore\UpdateServlet.class
+com\BookStore\ViewServlet.class

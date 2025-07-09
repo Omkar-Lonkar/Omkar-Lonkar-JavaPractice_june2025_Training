@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="C:\Tony\Coding\Java\Practice JAVA\Webee\Hello_servlet\MIT-ADT-j2ee\Hello_Servlet\BookStore_MVC\target/BookStore_MVC.war" todir="C:\Users\Tony\Tomcat\apache-tomcat-11.0.8\webapps" overwrite="true" />
+  </target>
+</project>
